@@ -1,0 +1,17 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+tools/validation/.env
+tools/validation/photos/
+tools/validation/results*.csv
+supabase/.env
+supabase/.temp/
+__pycache__/
+.kotlin/
+package-lock.json
